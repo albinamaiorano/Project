@@ -66,8 +66,3 @@ Follow the prompts to input task details or select task IDs as required.
 # Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
